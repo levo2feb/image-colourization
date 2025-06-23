@@ -26,8 +26,8 @@ Due to GitHub's file size restrictions and Git LFS quota limits, the following l
 ###
 | **File Name**                | **Link (GoogleDrive)**                                                                                                                                                                                                                      |
 |-----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **`colorization_release_v2.caffemodel`**         |https://drive.google.com/file/d/1a9gN6LeaZRWPsAvDhWPihf34ubysptYt/view?usp=drive_link |
-| **`next-swc.win32-x64-msvc.node`**               |https://drive.google.com/file/d/1tDchS3ROJHexpb9eLR_6kO05jFpk-TdI/view?usp=drive_link|
+| **`colorization_release_v2.caffemodel`**         |[click here for drive link --------------------------- >>>>>>>>>](https://drive.google.com/file/d/1a9gN6LeaZRWPsAvDhWPihf34ubysptYt/view?usp=drive_link) |
+| **`next-swc.win32-x64-msvc.node`**               |[click here for drive link --------------------------- >>>>>>>>>](https://drive.google.com/file/d/1tDchS3ROJHexpb9eLR_6kO05jFpk-TdI/view?usp=drive_link) |
  
 
 
@@ -49,5 +49,8 @@ Due to GitHub's file size restrictions and Git LFS quota limits, the following l
 - The image will be processed and converted into a colorized version.
 - The resulting image will be displayed and available for download.
 
-# Samples
-- 
+## 🖼️ Images
+-  **Colorized Image  01 -** [Trained images 01.png](https://github.com/levo2feb/image-colourization/blob/main/Images/Trained%20images%2001.png)
+- **Colorized Image 02 -** [Trained images 02.png](https://github.com/levo2feb/image-colourization/blob/main/Images/Trained%20images%2002.png)
+- **Webpage Screenshot : Upload Interface** [webpage SS 01 .png](https://github.com/levo2feb/image-colourization/blob/main/Images/webpage%20SS%2001%20.png)
+- **Webpage Screenshot : Result Display -**  [webpage SS 02.png](https://github.com/levo2feb/image-colourization/blob/main/Images/webpage%20SS%2002.png)
