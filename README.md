@@ -49,7 +49,5 @@ Due to GitHub's file size restrictions and Git LFS quota limits, the following l
 - The image will be processed and converted into a colorized version.
 - The resulting image will be displayed and available for download.
 
-## 📝 License
-This project is for educational purposes and utilises publicly available, pre-trained models.
-
- Feel free to contribute or raise issues if you find any bugs or have suggestions!
+# Samples
+- 
